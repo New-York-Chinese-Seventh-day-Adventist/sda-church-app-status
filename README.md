@@ -1,5 +1,7 @@
 # [📈 Live Status](https://New-York-Chinese-Seventh-day-Adventist.github.io/sda-church-app-status): <!--live status--> **🟩 All systems operational**
 
+**Status page:** https://app.nyccsda.org/status (short link to the dashboard on GitHub Pages: https://new-york-chinese-seventh-day-adventist.github.io/sda-church-app-status/)
+
 This repository contains the open-source uptime monitor and status page for [New York Chinese Seventh-day Adventist Church](nyccsda.org), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/New-York-Chinese-Seventh-day-Adventist/sda-church-app-status/workflows/Uptime%20CI/badge.svg)](https://github.com/New-York-Chinese-Seventh-day-Adventist/sda-church-app-status/actions/workflows/uptime.yml)
